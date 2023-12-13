@@ -70,5 +70,5 @@ func main() {
 	}
 
 	difficulty := data.Data.ActiveDailyCodingChallengeQuestion.Question.Difficulty
-	fmt.Println("LeetCode每日一题的难度是:", difficulty)
+	fmt.Println("LeetCode每日一题的難度為:", difficulty)
 }
